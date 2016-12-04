@@ -3,7 +3,8 @@ public class EgitClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//hi
+		//Test push from Eclipse
+		//Test pull from Github website
 	}
 
 }
